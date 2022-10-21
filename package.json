@@ -1,6 +1,6 @@
 {
   "name": "ec-cdn-stats",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "description": "",
   "scripts": {
     "build": "grafana-toolkit plugin:build",
